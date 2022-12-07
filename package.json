@@ -1,0 +1,22 @@
+{
+  "name": "tw-breakpoints-reduced-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitaourazbaev/tw-breakpoints-reduced-case.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitaourazbaev/tw-breakpoints-reduced-case/issues"
+  },
+  "homepage": "https://github.com/nikitaourazbaev/tw-breakpoints-reduced-case#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
